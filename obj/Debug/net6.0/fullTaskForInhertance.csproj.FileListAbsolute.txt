@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\bin\Debug\net6.0\fullTaskForInhertance.exe
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\bin\Debug\net6.0\fullTaskForInhertance.deps.json
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\bin\Debug\net6.0\fullTaskForInhertance.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\bin\Debug\net6.0\fullTaskForInhertance.dll
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\bin\Debug\net6.0\fullTaskForInhertance.pdb
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\obj\Debug\net6.0\fullTaskForInhertance.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\obj\Debug\net6.0\fullTaskForInhertance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\obj\Debug\net6.0\fullTaskForInhertance.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\obj\Debug\net6.0\fullTaskForInhertance.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\obj\Debug\net6.0\fullTaskForInhertance.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\obj\Debug\net6.0\fullTaskForInhertance.dll
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\obj\Debug\net6.0\refint\fullTaskForInhertance.dll
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\obj\Debug\net6.0\fullTaskForInhertance.pdb
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\obj\Debug\net6.0\fullTaskForInhertance.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\fullTaskForInhertance\fullTaskForInhertance\obj\Debug\net6.0\ref\fullTaskForInhertance.dll
